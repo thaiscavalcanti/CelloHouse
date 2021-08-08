@@ -1,0 +1,33 @@
+#Logo {
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+#Menu {
+    float: right;
+    margin-right: 40px;
+    margin-top: 50px;
+    font-family: 'Times new roman', Helvetica, sans-serif;
+    color: #777;
+    font-size: 20px;
+}
+
+#Menu a {
+    padding: 52px 20px;
+    text-decoration: none;
+    color: #777;
+}
+
+#Menu a:hover {
+    color: white;
+}
+
+.bgimg-1 a {
+    color: #ddd;
+    text-decoration: none;
+}
+
+.bgimg-1 a:hover {
+    color: #777;
+}
